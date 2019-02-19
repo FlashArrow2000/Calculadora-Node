@@ -1,0 +1,42 @@
+html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;    
+    background: beige;
+}
+table{
+    margin: auto;
+    border: solid 2px;
+    border-color: black;
+    background-color: azure;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+}
+button{
+    border: solid 1px;
+    border-color: grey;
+    background-color: burlywood;
+    padding: 50px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: white;
+}
+.igual{
+    position: absolute;
+    padding-top: 416px;
+    margin-top: -425.5px;
+    margin-left: -53px;
+}
+div #resultado{
+    padding: 20px;        
+    background-color: cadetblue;
+    color: aliceblue;
+    padding-left: 215px;
+    padding-right: 215px;
+}
+.contenedor{
+    text-align: center;
+}
